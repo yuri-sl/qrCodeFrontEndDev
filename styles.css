@@ -1,0 +1,49 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+section{
+    left: 36rem;
+    top: 4rem;
+    align-items: center;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2{
+    font-weight: bold;
+    color: hsl(218, 44%, 22%);
+    padding-bottom: 0.5rem;
+    font-size: 20px;
+}
+
+p{
+    width: fit-content;
+    color: hsl(216, 15%, 48%);
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+img{
+    border-radius: 20px;
+    width: 20rem;
+    height: 18rem;
+    top: 1rem;
+    position: relative;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+footer li{
+    background-color: hsl(212, 45%, 89%);
+    display: inline-block;
+    margin-right: 4rem;
+}
