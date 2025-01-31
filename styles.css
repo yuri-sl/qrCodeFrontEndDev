@@ -47,3 +47,27 @@ footer li{
     display: inline-block;
     margin-right: 4rem;
 }
+
+@media screen and (max-width: 768px){
+    section{
+        position: relative;
+        left: 1rem;
+    }
+    .container{
+        width: fit-content;
+    }
+    img{
+        width: 15rem;
+        height: 14rem;
+    }
+    div{
+        width: fit-content;
+    }
+    h2{
+        font-size: 1rem;
+    }
+    p{
+        font-size: 0.8rem;
+    }
+    
+}
